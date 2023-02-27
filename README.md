@@ -19,7 +19,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="200" height="200"/>
 </div>
+
 ---
+
 ### :man_technologist: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :telescope: I’m contributing to frontend for building web applications.
