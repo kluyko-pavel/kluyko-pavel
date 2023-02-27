@@ -45,7 +45,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="Eslint" **alt="Eslint" width="40" height="40"/>
 </div>
