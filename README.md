@@ -49,4 +49,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="Eslint" **alt="Eslint" width="40" height="40"/>
 </div>
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kluyko-pavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
